@@ -2,7 +2,6 @@
 # imports
 #############
 
-import enum
 import cv2
 import mediapipe as mp # contains gesture recognition ml model
 import pygame
