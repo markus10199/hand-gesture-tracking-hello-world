@@ -1,3 +1,10 @@
+""" 
+Code is inspired from a youtube video made by the channel 
+"Murtaza's Workshop- Robotics and AI"
+Video title: "Hand Tracking 30 FPS using CPI | OpenCV Python (2021) | Computer Vision
+Video link: https://www.youtube.com/watch?v=NZde8Xt78Iw&t=902s
+"""
+
 import cv2
 import mediapipe as mp # contains gesture recognition ml model
 import pygame
